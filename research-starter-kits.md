@@ -10,7 +10,7 @@ React Starter kit 알아보기
 Typescript 와 함께 next.js 가 구성된걸 찾을 수 있을지는 모르겠다. 그래도 React + Typescript는 찾기가 쉬울것이니 못찾으면 next.js는 직접 적용 해보자.
 
 ## Create React App
-첫번재로 볼것은 facebook 에서 공식적으로 제공하는 Create React App 이다.
+첫번째로 볼것은 facebook 에서 공식적으로 제공하는 Create React App 이다.
 
 홈페이지 https://facebook.github.io/create-react-app/
 
