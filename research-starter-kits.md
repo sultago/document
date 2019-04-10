@@ -16,3 +16,8 @@ Typescript 와 함께 next.js 가 구성된걸 찾을 수 있을지는 모르겠
 
 <img height="400px" src="https://camo.githubusercontent.com/29765c4a32f03bd01d44edef1cd674225e3c906b/68747470733a2f2f63646e2e7261776769742e636f6d2f66616365626f6f6b2f6372656174652d72656163742d6170702f323762343261632f73637265656e636173742e737667"></img>
 
+생성하는 방법은 여러가지 있지만 npx 명령어로 실행하면 편하다. 그리고 typescript를 기본적으로 지원한다. 하지만 공식 문서에는 next.js 에 대한 언급은 없다.
+
+npx create-react-app my-app --typescript
+
+이 명령어로 모든게 준비된다. 하지만 생각 하지 못했던 부분은 빌드, 패키징을 react-scripts 라는 툴을 사용하도록 구성이 되는데 이 부분은 좀더 알아봐야 할것 같다.
