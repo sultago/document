@@ -20,6 +20,6 @@ Typescript 와 함께 next.js 가 구성된걸 찾을 수 있을지는 모르겠
 
 npx create-react-app my-app --typescript
 
-이 명령어로 모든게 준비된다. 하지만 생각 하지 못했던 부분은 빌드, 패키징을 react-scripts 라는 툴을 사용하도록 구성이 되는데 이 부분은 좀더 알아봐야 할것 같다.
+이 명령어로 모든게 준비된다. 하지만 생각 하지 못했던 부분은 빌드, 패키징을 react-scripts 라는 툴을 사용하도록 구성이 되는데 이 부분은 좀더 알아봐야 할것 같다. (확인 결과 react-scripts가 webpack을 참조하고, 사용하고 있다.)
 
 test 까지 만들어지는데, jest 를 사용한다. (https://jestjs.io/)
