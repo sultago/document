@@ -4,7 +4,7 @@
 아래 나열된 것들은 이해가 필요 할것 같다.. 진행하면서 필요하다면 학습.
 
 ## Client side
-[React](https://reactjs.org/) - UI 라이브러리. 
+[React](https://reactjs.org/) - UI 라이브러리.  
 [Redux](https://redux.js.org/) - 상태 컨테이너 React를 좀더 편하게..  
 [immutable.js](https://immutable-js.github.io/immutable-js/) - React 에서는 불변성을 유지 해줘야 하는데 그 코드를 편하게..  
 [Bootstrap](https://getbootstrap.com/) - 우린 HTML, CSS 할줄 모르니까 이걸로.  
