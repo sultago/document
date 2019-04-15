@@ -15,7 +15,7 @@
 [GraphQL](https://graphql.org/) (미정) - Rest API 대신 이걸로 해보면 어떨까? 이왕 React 하는 김에 Facebook 종합셋트로..  
 
 ## Common
-[Typescript](https://www.typescriptlang.org/) - 타입 safe 하게 javascript. 
+[Typescript](https://www.typescriptlang.org/) - 타입 safe 하게 javascript.  
 [ECMA Script 6 (es6)](https://www.ecma-international.org/ecma-262/6.0/) - Typescript는 javascript의 superset 이고 결국 es6 문법을 포함하므로.  
 [Webpack](https://webpack.js.org/) - 패키지, 번들. 
 
