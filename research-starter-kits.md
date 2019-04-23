@@ -30,3 +30,9 @@ https://github.com/deptno/next.js-typescript-starter-kit
 
 '이봉' 이라는 아저씩 만든거 같다. 본인 블로그 글으 통해서 소개함.
 https://medium.com/@deptno/next-js-with-typescript-타입스크립트-71c7eae55006
+
+## Create Next App
+
+https://open.segment.com/create-next-app/
+
+create react app의 next 
