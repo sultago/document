@@ -35,4 +35,7 @@ https://medium.com/@deptno/next-js-with-typescript-타입스크립트-71c7eae550
 
 https://open.segment.com/create-next-app/
 
-create react app의 next 
+create react app의 next.js 버전이다.
+마찬가지로 타입 스크립트를 옵션으로 지원하며 명령어는 아래와 같이 사용한다.
+npx create-next-app --example with-typescript with-typescript-app
+
